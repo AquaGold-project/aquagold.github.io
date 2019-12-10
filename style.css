@@ -1,21 +1,21 @@
 
 /*Intro text color & background*/
 .intro{
-  color: #BFBF51;
+  color: #fffff;
   text-align: center;
-  background: #00eaff;
+  background: #ffff;
 }
 body{
-  background:#00eaff;
+  background:#ffff;
   margin: 0;
   padding: 0px;
-  color: blue;
+  color: white;
 }
 /*Navbar information*/
 .navbar {
   overflow: hidden;
-  background: #333333;
-  color: #BFBF51;
+  background: #fffff;
+  color: #fffff;
   position: fixed;
   top: 0;
   width: 100%;
